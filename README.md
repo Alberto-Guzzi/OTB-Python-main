@@ -1,4 +1,8 @@
 # OT Bioelettronica Python Communication Scripts
+This project is an adapted version of the original OTB-Python repository developed by OTBioelettronica:
+**https://github.com/OTBioelettronica/OTB-Python**
+
+The code has been modified and extended to support the specific requirements of this project while maintaining compatibility with the original OTBioelettronica communication framework.
 
 This repository contains Python scripts for communicating with **OT Bioelettronica** devices. Two implementations are provided, based on different graphical libraries: **PyQt** and **Matplotlib**.
 
