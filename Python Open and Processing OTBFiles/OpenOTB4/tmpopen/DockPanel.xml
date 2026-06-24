@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DockItems>
+	<DockItem>
+		<Document
+			Title="Main">
+			<row>0</row>
+			<column>0</column>
+			<doc_number>0</doc_number>
+			<is_closable>false</is_closable>
+		</Document>
+	</DockItem>
+	<DockItem>
+		<Document
+			Title="Trap.">
+			<row>0</row>
+			<column>1</column>
+			<doc_number>0</doc_number>
+			<is_closable>true</is_closable>
+		</Document>
+	</DockItem>
+</DockItems>

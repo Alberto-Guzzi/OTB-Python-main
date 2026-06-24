@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTrackInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TrackInfo>
+    <HexDeviceColor>#4d4d4d</HexDeviceColor>
+    <SamplesShift>0</SamplesShift>
+    <TimeShift>0</TimeShift>
+    <SubTitle>AUX 1</SubTitle>
+    <IsClosed>false</IsClosed>
+    <IsControl>false</IsControl>
+    <IsProcessing>false</IsProcessing>
+    <Title>Novecento+</Title>
+    <Device>Novecento+</Device>
+    <HighDefinitionMode>false</HighDefinitionMode>
+    <MaxNumberOfChannels>1</MaxNumberOfChannels>
+    <Block_offset>0</Block_offset>
+    <ChannelsInBlock>16</ChannelsInBlock>
+    <ChannelOffsetInSubPacket>0</ChannelOffsetInSubPacket>
+    <Gain>0.5</Gain>
+    <ADC_Nbits>16</ADC_Nbits>
+    <ADC_Range>4.8</ADC_Range>
+    <SamplingFrequency>2000</SamplingFrequency>
+    <SampleSize>4</SampleSize>
+    <SignalStreamPath>FQI933A7J6.sig</SignalStreamPath>
+    <TotalChannelsInFile>16</TotalChannelsInFile>
+    <UnitOfMeasurement>V</UnitOfMeasurement>
+    <UnitOfMeasurementFactor>1</UnitOfMeasurementFactor>
+    <TimeDuration>37.7</TimeDuration>
+    <Starts>
+      <double>0</double>
+    </Starts>
+    <Ends>
+      <double>37.7</double>
+    </Ends>
+    <Markers />
+    <StringsDescriptions>
+      <Mode>Unknown</Mode>
+      <FirmwareVersion>4.40</FirmwareVersion>
+      <OriginalDevice>Novecento+</OriginalDevice>
+      <OriginalAdapter> - </OriginalAdapter>
+      <OriginalSensor>Unknown</OriginalSensor>
+      <UsedAccessory>Not Used</UsedAccessory>
+      <ExecutedProcessings />
+      <LowPassFilter>Unknown</LowPassFilter>
+      <HighPassFilter>Unknown</HighPassFilter>
+      <Channels>AUX 1</Channels>
+      <FileType>Unknown</FileType>
+      <StartDate>2026-06-10 09:55:12</StartDate>
+      <EndDate>2026-06-10 09:55:50</EndDate>
+    </StringsDescriptions>
+    <EndY>350</EndY>
+    <StartY>0</StartY>
+    <RangeMin>-5</RangeMin>
+    <RangeMax>5</RangeMax>
+    <UseAsTrigger>false</UseAsTrigger>
+    <Channels>
+      <ChannelRapresentation>
+        <IsColorSelected>true</IsColorSelected>
+        <Color>58268</Color>
+        <IsChannelVisible>true</IsChannelVisible>
+        <Selected4Differential>false</Selected4Differential>
+        <PixelOffset>0</PixelOffset>
+        <Index>0</Index>
+        <Label>1</Label>
+        <LabelMargin>
+          <Left>0</Left>
+          <Top>0</Top>
+          <Right>0</Right>
+          <Bottom>0</Bottom>
+        </LabelMargin>
+        <ChannelHeight>15</ChannelHeight>
+      </ChannelRapresentation>
+    </Channels>
+    <BackgroundColor>173</BackgroundColor>
+    <NumberOfChannels>1</NumberOfChannels>
+    <Height>350</Height>
+    <AcquisitionChannel>0</AcquisitionChannel>
+    <Description>
+      <Name>AUX 1</Name>
+      <Map>
+        <ArrayOfInt>
+          <int>0</int>
+        </ArrayOfInt>
+      </Map>
+      <NRow>1</NRow>
+      <NColumn>1</NColumn>
+      <Height>50</Height>
+      <Width>50</Width>
+      <IED>1</IED>
+    </Description>
+    <FirstChannelNumber>0</FirstChannelNumber>
+    <RegroupFactor>200</RegroupFactor>
+  </TrackInfo>
+  <TrackInfo>
+    <HexDeviceColor>#4d4d4d</HexDeviceColor>
+    <SamplesShift>0</SamplesShift>
+    <TimeShift>0</TimeShift>
+    <SubTitle>Control Signal </SubTitle>
+    <IsClosed>false</IsClosed>
+    <IsControl>true</IsControl>
+    <IsProcessing>false</IsProcessing>
+    <Title>Ramp 1</Title>
+    <Device>Novecento+</Device>
+    <HighDefinitionMode>false</HighDefinitionMode>
+    <MaxNumberOfChannels>1</MaxNumberOfChannels>
+    <Block_offset>64</Block_offset>
+    <ChannelsInBlock>8</ChannelsInBlock>
+    <ChannelOffsetInSubPacket>0</ChannelOffsetInSubPacket>
+    <Gain>1</Gain>
+    <ADC_Nbits>0</ADC_Nbits>
+    <ADC_Range>1</ADC_Range>
+    <SamplingFrequency>8000</SamplingFrequency>
+    <SampleSize>4</SampleSize>
+    <SignalStreamPath>Z0MNQ5SKDV.sig</SignalStreamPath>
+    <TotalChannelsInFile>8</TotalChannelsInFile>
+    <UnitOfMeasurement>A.U.</UnitOfMeasurement>
+    <UnitOfMeasurementFactor>1</UnitOfMeasurementFactor>
+    <TimeDuration>37.7</TimeDuration>
+    <Starts>
+      <double>0</double>
+    </Starts>
+    <Ends>
+      <double>37.7</double>
+    </Ends>
+    <Markers />
+    <StringsDescriptions>
+      <Mode>Unknown</Mode>
+      <FirmwareVersion>Unknown</FirmwareVersion>
+      <OriginalDevice>Novecento+</OriginalDevice>
+      <OriginalAdapter> - </OriginalAdapter>
+      <OriginalSensor> - </OriginalSensor>
+      <UsedAccessory> - </UsedAccessory>
+      <ExecutedProcessings />
+      <LowPassFilter>Unknown</LowPassFilter>
+      <HighPassFilter>Unknown</HighPassFilter>
+      <Channels>Control Signal 1</Channels>
+      <FileType>Unknown</FileType>
+      <StartDate>2026-06-10 09:55:12</StartDate>
+      <EndDate>2026-06-10 09:55:50</EndDate>
+    </StringsDescriptions>
+    <EndY>700</EndY>
+    <StartY>350</StartY>
+    <RangeMin>-32767</RangeMin>
+    <RangeMax>32768</RangeMax>
+    <UseAsTrigger>false</UseAsTrigger>
+    <Channels>
+      <ChannelRapresentation>
+        <IsColorSelected>true</IsColorSelected>
+        <Color>58268</Color>
+        <IsChannelVisible>true</IsChannelVisible>
+        <Selected4Differential>false</Selected4Differential>
+        <PixelOffset>0</PixelOffset>
+        <Index>0</Index>
+        <Label>1</Label>
+        <LabelMargin>
+          <Left>0</Left>
+          <Top>0</Top>
+          <Right>0</Right>
+          <Bottom>0</Bottom>
+        </LabelMargin>
+        <ChannelHeight>15</ChannelHeight>
+      </ChannelRapresentation>
+    </Channels>
+    <BackgroundColor>173</BackgroundColor>
+    <NumberOfChannels>1</NumberOfChannels>
+    <Height>350</Height>
+    <AcquisitionChannel>0</AcquisitionChannel>
+    <Description>
+      <Name>Control Signal</Name>
+      <Map>
+        <ArrayOfInt>
+          <int>0</int>
+        </ArrayOfInt>
+      </Map>
+      <NRow>1</NRow>
+      <NColumn>1</NColumn>
+      <Height>50</Height>
+      <Width>50</Width>
+      <IED>1</IED>
+    </Description>
+    <FirstChannelNumber>0</FirstChannelNumber>
+    <RegroupFactor>800</RegroupFactor>
+  </TrackInfo>
+  <TrackInfo>
+    <HexDeviceColor>#4d4d4d</HexDeviceColor>
+    <SamplesShift>0</SamplesShift>
+    <TimeShift>0</TimeShift>
+    <SubTitle>Control Signal </SubTitle>
+    <IsClosed>false</IsClosed>
+    <IsControl>true</IsControl>
+    <IsProcessing>false</IsProcessing>
+    <Title>Ramp 2</Title>
+    <Device>Novecento+</Device>
+    <HighDefinitionMode>false</HighDefinitionMode>
+    <MaxNumberOfChannels>1</MaxNumberOfChannels>
+    <Block_offset>64</Block_offset>
+    <ChannelsInBlock>8</ChannelsInBlock>
+    <ChannelOffsetInSubPacket>1</ChannelOffsetInSubPacket>
+    <Gain>1</Gain>
+    <ADC_Nbits>0</ADC_Nbits>
+    <ADC_Range>1</ADC_Range>
+    <SamplingFrequency>8000</SamplingFrequency>
+    <SampleSize>4</SampleSize>
+    <SignalStreamPath>Z0MNQ5SKDV.sig</SignalStreamPath>
+    <TotalChannelsInFile>8</TotalChannelsInFile>
+    <UnitOfMeasurement>A.U.</UnitOfMeasurement>
+    <UnitOfMeasurementFactor>1</UnitOfMeasurementFactor>
+    <TimeDuration>37.7</TimeDuration>
+    <Starts>
+      <double>0</double>
+    </Starts>
+    <Ends>
+      <double>37.7</double>
+    </Ends>
+    <Markers />
+    <StringsDescriptions>
+      <Mode>Unknown</Mode>
+      <FirmwareVersion>Unknown</FirmwareVersion>
+      <OriginalDevice>Novecento+</OriginalDevice>
+      <OriginalAdapter> - </OriginalAdapter>
+      <OriginalSensor> - </OriginalSensor>
+      <UsedAccessory> - </UsedAccessory>
+      <ExecutedProcessings />
+      <LowPassFilter>Unknown</LowPassFilter>
+      <HighPassFilter>Unknown</HighPassFilter>
+      <Channels>Control Signal 2</Channels>
+      <FileType>Unknown</FileType>
+      <StartDate>2026-06-10 09:55:12</StartDate>
+      <EndDate>2026-06-10 09:55:50</EndDate>
+    </StringsDescriptions>
+    <EndY>700</EndY>
+    <StartY>350</StartY>
+    <RangeMin>-32767</RangeMin>
+    <RangeMax>32768</RangeMax>
+    <UseAsTrigger>false</UseAsTrigger>
+    <Channels>
+      <ChannelRapresentation>
+        <IsColorSelected>true</IsColorSelected>
+        <Color>58268</Color>
+        <IsChannelVisible>true</IsChannelVisible>
+        <Selected4Differential>false</Selected4Differential>
+        <PixelOffset>0</PixelOffset>
+        <Index>0</Index>
+        <Label>1</Label>
+        <LabelMargin>
+          <Left>0</Left>
+          <Top>0</Top>
+          <Right>0</Right>
+          <Bottom>0</Bottom>
+        </LabelMargin>
+        <ChannelHeight>15</ChannelHeight>
+      </ChannelRapresentation>
+    </Channels>
+    <BackgroundColor>173</BackgroundColor>
+    <NumberOfChannels>1</NumberOfChannels>
+    <Height>350</Height>
+    <AcquisitionChannel>1</AcquisitionChannel>
+    <Description>
+      <Name>Control Signal</Name>
+      <Map>
+        <ArrayOfInt>
+          <int>0</int>
+        </ArrayOfInt>
+      </Map>
+      <NRow>1</NRow>
+      <NColumn>1</NColumn>
+      <Height>50</Height>
+      <Width>50</Width>
+      <IED>1</IED>
+    </Description>
+    <FirstChannelNumber>0</FirstChannelNumber>
+    <RegroupFactor>800</RegroupFactor>
+  </TrackInfo>
+  <TrackInfo>
+    <HexDeviceColor>#4d4d4d</HexDeviceColor>
+    <SamplesShift>0</SamplesShift>
+    <TimeShift>0</TimeShift>
+    <SubTitle>Control Signal </SubTitle>
+    <IsClosed>false</IsClosed>
+    <IsControl>true</IsControl>
+    <IsProcessing>false</IsProcessing>
+    <Title>Many Info</Title>
+    <Device>Novecento+</Device>
+    <HighDefinitionMode>false</HighDefinitionMode>
+    <MaxNumberOfChannels>1</MaxNumberOfChannels>
+    <Block_offset>64</Block_offset>
+    <ChannelsInBlock>8</ChannelsInBlock>
+    <ChannelOffsetInSubPacket>2</ChannelOffsetInSubPacket>
+    <Gain>1</Gain>
+    <ADC_Nbits>0</ADC_Nbits>
+    <ADC_Range>1</ADC_Range>
+    <SamplingFrequency>8000</SamplingFrequency>
+    <SampleSize>4</SampleSize>
+    <SignalStreamPath>Z0MNQ5SKDV.sig</SignalStreamPath>
+    <TotalChannelsInFile>8</TotalChannelsInFile>
+    <UnitOfMeasurement>A.U.</UnitOfMeasurement>
+    <UnitOfMeasurementFactor>1</UnitOfMeasurementFactor>
+    <TimeDuration>37.7</TimeDuration>
+    <Starts>
+      <double>0</double>
+    </Starts>
+    <Ends>
+      <double>37.7</double>
+    </Ends>
+    <Markers />
+    <StringsDescriptions>
+      <Mode>Unknown</Mode>
+      <FirmwareVersion>Unknown</FirmwareVersion>
+      <OriginalDevice>Novecento+</OriginalDevice>
+      <OriginalAdapter> - </OriginalAdapter>
+      <OriginalSensor> - </OriginalSensor>
+      <UsedAccessory> - </UsedAccessory>
+      <ExecutedProcessings />
+      <LowPassFilter>Unknown</LowPassFilter>
+      <HighPassFilter>Unknown</HighPassFilter>
+      <Channels>Control Signal 3</Channels>
+      <FileType>Unknown</FileType>
+      <StartDate>2026-06-10 09:55:12</StartDate>
+      <EndDate>2026-06-10 09:55:50</EndDate>
+    </StringsDescriptions>
+    <EndY>700</EndY>
+    <StartY>350</StartY>
+    <RangeMin>-0.00025</RangeMin>
+    <RangeMax>0.00025</RangeMax>
+    <UseAsTrigger>false</UseAsTrigger>
+    <Channels>
+      <ChannelRapresentation>
+        <IsColorSelected>true</IsColorSelected>
+        <Color>58268</Color>
+        <IsChannelVisible>true</IsChannelVisible>
+        <Selected4Differential>false</Selected4Differential>
+        <PixelOffset>0</PixelOffset>
+        <Index>0</Index>
+        <Label>1</Label>
+        <LabelMargin>
+          <Left>0</Left>
+          <Top>0</Top>
+          <Right>0</Right>
+          <Bottom>0</Bottom>
+        </LabelMargin>
+        <ChannelHeight>15</ChannelHeight>
+      </ChannelRapresentation>
+    </Channels>
+    <BackgroundColor>173</BackgroundColor>
+    <NumberOfChannels>1</NumberOfChannels>
+    <Height>350</Height>
+    <AcquisitionChannel>2</AcquisitionChannel>
+    <Description>
+      <Name>Control Signal</Name>
+      <Map>
+        <ArrayOfInt>
+          <int>0</int>
+        </ArrayOfInt>
+      </Map>
+      <NRow>1</NRow>
+      <NColumn>1</NColumn>
+      <Height>50</Height>
+      <Width>50</Width>
+      <IED>1</IED>
+    </Description>
+    <FirstChannelNumber>0</FirstChannelNumber>
+    <RegroupFactor>800</RegroupFactor>
+  </TrackInfo>
+  <TrackInfo>
+    <HexDeviceColor>#4d4d4d</HexDeviceColor>
+    <SamplesShift>0</SamplesShift>
+    <TimeShift>0</TimeShift>
+    <SubTitle>Control Signal </SubTitle>
+    <IsClosed>false</IsClosed>
+    <IsControl>true</IsControl>
+    <IsProcessing>false</IsProcessing>
+    <Title>Analog Out Info</Title>
+    <Device>Novecento+</Device>
+    <HighDefinitionMode>false</HighDefinitionMode>
+    <MaxNumberOfChannels>1</MaxNumberOfChannels>
+    <Block_offset>64</Block_offset>
+    <ChannelsInBlock>8</ChannelsInBlock>
+    <ChannelOffsetInSubPacket>3</ChannelOffsetInSubPacket>
+    <Gain>1</Gain>
+    <ADC_Nbits>0</ADC_Nbits>
+    <ADC_Range>1</ADC_Range>
+    <SamplingFrequency>8000</SamplingFrequency>
+    <SampleSize>4</SampleSize>
+    <SignalStreamPath>Z0MNQ5SKDV.sig</SignalStreamPath>
+    <TotalChannelsInFile>8</TotalChannelsInFile>
+    <UnitOfMeasurement>A.U.</UnitOfMeasurement>
+    <UnitOfMeasurementFactor>1</UnitOfMeasurementFactor>
+    <TimeDuration>37.7</TimeDuration>
+    <Starts>
+      <double>0</double>
+    </Starts>
+    <Ends>
+      <double>37.7</double>
+    </Ends>
+    <Markers />
+    <StringsDescriptions>
+      <Mode>Unknown</Mode>
+      <FirmwareVersion>Unknown</FirmwareVersion>
+      <OriginalDevice>Novecento+</OriginalDevice>
+      <OriginalAdapter> - </OriginalAdapter>
+      <OriginalSensor> - </OriginalSensor>
+      <UsedAccessory> - </UsedAccessory>
+      <ExecutedProcessings />
+      <LowPassFilter>Unknown</LowPassFilter>
+      <HighPassFilter>Unknown</HighPassFilter>
+      <Channels>Control Signal 4</Channels>
+      <FileType>Unknown</FileType>
+      <StartDate>2026-06-10 09:55:12</StartDate>
+      <EndDate>2026-06-10 09:55:50</EndDate>
+    </StringsDescriptions>
+    <EndY>700</EndY>
+    <StartY>350</StartY>
+    <RangeMin>-0.00025</RangeMin>
+    <RangeMax>0.00025</RangeMax>
+    <UseAsTrigger>false</UseAsTrigger>
+    <Channels>
+      <ChannelRapresentation>
+        <IsColorSelected>true</IsColorSelected>
+        <Color>58268</Color>
+        <IsChannelVisible>true</IsChannelVisible>
+        <Selected4Differential>false</Selected4Differential>
+        <PixelOffset>0</PixelOffset>
+        <Index>0</Index>
+        <Label>1</Label>
+        <LabelMargin>
+          <Left>0</Left>
+          <Top>0</Top>
+          <Right>0</Right>
+          <Bottom>0</Bottom>
+        </LabelMargin>
+        <ChannelHeight>15</ChannelHeight>
+      </ChannelRapresentation>
+    </Channels>
+    <BackgroundColor>173</BackgroundColor>
+    <NumberOfChannels>1</NumberOfChannels>
+    <Height>350</Height>
+    <AcquisitionChannel>3</AcquisitionChannel>
+    <Description>
+      <Name>Control Signal</Name>
+      <Map>
+        <ArrayOfInt>
+          <int>0</int>
+        </ArrayOfInt>
+      </Map>
+      <NRow>1</NRow>
+      <NColumn>1</NColumn>
+      <Height>50</Height>
+      <Width>50</Width>
+      <IED>1</IED>
+    </Description>
+    <FirstChannelNumber>0</FirstChannelNumber>
+    <RegroupFactor>800</RegroupFactor>
+  </TrackInfo>
+  <TrackInfo>
+    <HexDeviceColor>#4d4d4d</HexDeviceColor>
+    <SamplesShift>0</SamplesShift>
+    <TimeShift>0</TimeShift>
+    <SubTitle>Control Signal </SubTitle>
+    <IsClosed>false</IsClosed>
+    <IsControl>true</IsControl>
+    <IsProcessing>false</IsProcessing>
+    <Title>5</Title>
+    <Device>Novecento+</Device>
+    <HighDefinitionMode>false</HighDefinitionMode>
+    <MaxNumberOfChannels>1</MaxNumberOfChannels>
+    <Block_offset>64</Block_offset>
+    <ChannelsInBlock>8</ChannelsInBlock>
+    <ChannelOffsetInSubPacket>4</ChannelOffsetInSubPacket>
+    <Gain>1</Gain>
+    <ADC_Nbits>0</ADC_Nbits>
+    <ADC_Range>1</ADC_Range>
+    <SamplingFrequency>8000</SamplingFrequency>
+    <SampleSize>4</SampleSize>
+    <SignalStreamPath>Z0MNQ5SKDV.sig</SignalStreamPath>
+    <TotalChannelsInFile>8</TotalChannelsInFile>
+    <UnitOfMeasurement>A.U.</UnitOfMeasurement>
+    <UnitOfMeasurementFactor>1</UnitOfMeasurementFactor>
+    <TimeDuration>37.7</TimeDuration>
+    <Starts>
+      <double>0</double>
+    </Starts>
+    <Ends>
+      <double>37.7</double>
+    </Ends>
+    <Markers />
+    <StringsDescriptions>
+      <Mode>Unknown</Mode>
+      <FirmwareVersion>Unknown</FirmwareVersion>
+      <OriginalDevice>Novecento+</OriginalDevice>
+      <OriginalAdapter> - </OriginalAdapter>
+      <OriginalSensor> - </OriginalSensor>
+      <UsedAccessory> - </UsedAccessory>
+      <ExecutedProcessings />
+      <LowPassFilter>Unknown</LowPassFilter>
+      <HighPassFilter>Unknown</HighPassFilter>
+      <Channels>Control Signal 5</Channels>
+      <FileType>Unknown</FileType>
+      <StartDate>2026-06-10 09:55:12</StartDate>
+      <EndDate>2026-06-10 09:55:50</EndDate>
+    </StringsDescriptions>
+    <EndY>700</EndY>
+    <StartY>350</StartY>
+    <RangeMin>-0.00025</RangeMin>
+    <RangeMax>0.00025</RangeMax>
+    <UseAsTrigger>false</UseAsTrigger>
+    <Channels>
+      <ChannelRapresentation>
+        <IsColorSelected>true</IsColorSelected>
+        <Color>58268</Color>
+        <IsChannelVisible>true</IsChannelVisible>
+        <Selected4Differential>false</Selected4Differential>
+        <PixelOffset>0</PixelOffset>
+        <Index>0</Index>
+        <Label>1</Label>
+        <LabelMargin>
+          <Left>0</Left>
+          <Top>0</Top>
+          <Right>0</Right>
+          <Bottom>0</Bottom>
+        </LabelMargin>
+        <ChannelHeight>15</ChannelHeight>
+      </ChannelRapresentation>
+    </Channels>
+    <BackgroundColor>173</BackgroundColor>
+    <NumberOfChannels>1</NumberOfChannels>
+    <Height>350</Height>
+    <AcquisitionChannel>4</AcquisitionChannel>
+    <Description>
+      <Name>Control Signal</Name>
+      <Map>
+        <ArrayOfInt>
+          <int>0</int>
+        </ArrayOfInt>
+      </Map>
+      <NRow>1</NRow>
+      <NColumn>1</NColumn>
+      <Height>50</Height>
+      <Width>50</Width>
+      <IED>1</IED>
+    </Description>
+    <FirstChannelNumber>0</FirstChannelNumber>
+    <RegroupFactor>800</RegroupFactor>
+  </TrackInfo>
+  <TrackInfo>
+    <HexDeviceColor>#4d4d4d</HexDeviceColor>
+    <SamplesShift>0</SamplesShift>
+    <TimeShift>0</TimeShift>
+    <SubTitle>Control Signal </SubTitle>
+    <IsClosed>false</IsClosed>
+    <IsControl>true</IsControl>
+    <IsProcessing>false</IsProcessing>
+    <Title>6</Title>
+    <Device>Novecento+</Device>
+    <HighDefinitionMode>false</HighDefinitionMode>
+    <MaxNumberOfChannels>1</MaxNumberOfChannels>
+    <Block_offset>64</Block_offset>
+    <ChannelsInBlock>8</ChannelsInBlock>
+    <ChannelOffsetInSubPacket>5</ChannelOffsetInSubPacket>
+    <Gain>1</Gain>
+    <ADC_Nbits>0</ADC_Nbits>
+    <ADC_Range>1</ADC_Range>
+    <SamplingFrequency>8000</SamplingFrequency>
+    <SampleSize>4</SampleSize>
+    <SignalStreamPath>Z0MNQ5SKDV.sig</SignalStreamPath>
+    <TotalChannelsInFile>8</TotalChannelsInFile>
+    <UnitOfMeasurement>A.U.</UnitOfMeasurement>
+    <UnitOfMeasurementFactor>1</UnitOfMeasurementFactor>
+    <TimeDuration>37.7</TimeDuration>
+    <Starts>
+      <double>0</double>
+    </Starts>
+    <Ends>
+      <double>37.7</double>
+    </Ends>
+    <Markers />
+    <StringsDescriptions>
+      <Mode>Unknown</Mode>
+      <FirmwareVersion>Unknown</FirmwareVersion>
+      <OriginalDevice>Novecento+</OriginalDevice>
+      <OriginalAdapter> - </OriginalAdapter>
+      <OriginalSensor> - </OriginalSensor>
+      <UsedAccessory> - </UsedAccessory>
+      <ExecutedProcessings />
+      <LowPassFilter>Unknown</LowPassFilter>
+      <HighPassFilter>Unknown</HighPassFilter>
+      <Channels>Control Signal 6</Channels>
+      <FileType>Unknown</FileType>
+      <StartDate>2026-06-10 09:55:12</StartDate>
+      <EndDate>2026-06-10 09:55:50</EndDate>
+    </StringsDescriptions>
+    <EndY>700</EndY>
+    <StartY>350</StartY>
+    <RangeMin>-0.00025</RangeMin>
+    <RangeMax>0.00025</RangeMax>
+    <UseAsTrigger>false</UseAsTrigger>
+    <Channels>
+      <ChannelRapresentation>
+        <IsColorSelected>true</IsColorSelected>
+        <Color>58268</Color>
+        <IsChannelVisible>true</IsChannelVisible>
+        <Selected4Differential>false</Selected4Differential>
+        <PixelOffset>0</PixelOffset>
+        <Index>0</Index>
+        <Label>1</Label>
+        <LabelMargin>
+          <Left>0</Left>
+          <Top>0</Top>
+          <Right>0</Right>
+          <Bottom>0</Bottom>
+        </LabelMargin>
+        <ChannelHeight>15</ChannelHeight>
+      </ChannelRapresentation>
+    </Channels>
+    <BackgroundColor>173</BackgroundColor>
+    <NumberOfChannels>1</NumberOfChannels>
+    <Height>350</Height>
+    <AcquisitionChannel>5</AcquisitionChannel>
+    <Description>
+      <Name>Control Signal</Name>
+      <Map>
+        <ArrayOfInt>
+          <int>0</int>
+        </ArrayOfInt>
+      </Map>
+      <NRow>1</NRow>
+      <NColumn>1</NColumn>
+      <Height>50</Height>
+      <Width>50</Width>
+      <IED>1</IED>
+    </Description>
+    <FirstChannelNumber>0</FirstChannelNumber>
+    <RegroupFactor>800</RegroupFactor>
+  </TrackInfo>
+  <TrackInfo>
+    <HexDeviceColor>#4d4d4d</HexDeviceColor>
+    <SamplesShift>0</SamplesShift>
+    <TimeShift>0</TimeShift>
+    <SubTitle>Control Signal </SubTitle>
+    <IsClosed>false</IsClosed>
+    <IsControl>true</IsControl>
+    <IsProcessing>false</IsProcessing>
+    <Title>7</Title>
+    <Device>Novecento+</Device>
+    <HighDefinitionMode>false</HighDefinitionMode>
+    <MaxNumberOfChannels>1</MaxNumberOfChannels>
+    <Block_offset>64</Block_offset>
+    <ChannelsInBlock>8</ChannelsInBlock>
+    <ChannelOffsetInSubPacket>6</ChannelOffsetInSubPacket>
+    <Gain>1</Gain>
+    <ADC_Nbits>0</ADC_Nbits>
+    <ADC_Range>1</ADC_Range>
+    <SamplingFrequency>8000</SamplingFrequency>
+    <SampleSize>4</SampleSize>
+    <SignalStreamPath>Z0MNQ5SKDV.sig</SignalStreamPath>
+    <TotalChannelsInFile>8</TotalChannelsInFile>
+    <UnitOfMeasurement>A.U.</UnitOfMeasurement>
+    <UnitOfMeasurementFactor>1</UnitOfMeasurementFactor>
+    <TimeDuration>37.7</TimeDuration>
+    <Starts>
+      <double>0</double>
+    </Starts>
+    <Ends>
+      <double>37.7</double>
+    </Ends>
+    <Markers />
+    <StringsDescriptions>
+      <Mode>Unknown</Mode>
+      <FirmwareVersion>Unknown</FirmwareVersion>
+      <OriginalDevice>Novecento+</OriginalDevice>
+      <OriginalAdapter> - </OriginalAdapter>
+      <OriginalSensor> - </OriginalSensor>
+      <UsedAccessory> - </UsedAccessory>
+      <ExecutedProcessings />
+      <LowPassFilter>Unknown</LowPassFilter>
+      <HighPassFilter>Unknown</HighPassFilter>
+      <Channels>Control Signal 7</Channels>
+      <FileType>Unknown</FileType>
+      <StartDate>2026-06-10 09:55:12</StartDate>
+      <EndDate>2026-06-10 09:55:50</EndDate>
+    </StringsDescriptions>
+    <EndY>700</EndY>
+    <StartY>350</StartY>
+    <RangeMin>-0.00025</RangeMin>
+    <RangeMax>0.00025</RangeMax>
+    <UseAsTrigger>false</UseAsTrigger>
+    <Channels>
+      <ChannelRapresentation>
+        <IsColorSelected>true</IsColorSelected>
+        <Color>58268</Color>
+        <IsChannelVisible>true</IsChannelVisible>
+        <Selected4Differential>false</Selected4Differential>
+        <PixelOffset>0</PixelOffset>
+        <Index>0</Index>
+        <Label>1</Label>
+        <LabelMargin>
+          <Left>0</Left>
+          <Top>0</Top>
+          <Right>0</Right>
+          <Bottom>0</Bottom>
+        </LabelMargin>
+        <ChannelHeight>15</ChannelHeight>
+      </ChannelRapresentation>
+    </Channels>
+    <BackgroundColor>173</BackgroundColor>
+    <NumberOfChannels>1</NumberOfChannels>
+    <Height>350</Height>
+    <AcquisitionChannel>6</AcquisitionChannel>
+    <Description>
+      <Name>Control Signal</Name>
+      <Map>
+        <ArrayOfInt>
+          <int>0</int>
+        </ArrayOfInt>
+      </Map>
+      <NRow>1</NRow>
+      <NColumn>1</NColumn>
+      <Height>50</Height>
+      <Width>50</Width>
+      <IED>1</IED>
+    </Description>
+    <FirstChannelNumber>0</FirstChannelNumber>
+    <RegroupFactor>800</RegroupFactor>
+  </TrackInfo>
+  <TrackInfo>
+    <HexDeviceColor>#4d4d4d</HexDeviceColor>
+    <SamplesShift>0</SamplesShift>
+    <TimeShift>0</TimeShift>
+    <SubTitle>Control Signal </SubTitle>
+    <IsClosed>false</IsClosed>
+    <IsControl>true</IsControl>
+    <IsProcessing>false</IsProcessing>
+    <Title>8</Title>
+    <Device>Novecento+</Device>
+    <HighDefinitionMode>false</HighDefinitionMode>
+    <MaxNumberOfChannels>1</MaxNumberOfChannels>
+    <Block_offset>64</Block_offset>
+    <ChannelsInBlock>8</ChannelsInBlock>
+    <ChannelOffsetInSubPacket>7</ChannelOffsetInSubPacket>
+    <Gain>1</Gain>
+    <ADC_Nbits>0</ADC_Nbits>
+    <ADC_Range>1</ADC_Range>
+    <SamplingFrequency>8000</SamplingFrequency>
+    <SampleSize>4</SampleSize>
+    <SignalStreamPath>Z0MNQ5SKDV.sig</SignalStreamPath>
+    <TotalChannelsInFile>8</TotalChannelsInFile>
+    <UnitOfMeasurement>A.U.</UnitOfMeasurement>
+    <UnitOfMeasurementFactor>1</UnitOfMeasurementFactor>
+    <TimeDuration>37.7</TimeDuration>
+    <Starts>
+      <double>0</double>
+    </Starts>
+    <Ends>
+      <double>37.7</double>
+    </Ends>
+    <Markers />
+    <StringsDescriptions>
+      <Mode>Unknown</Mode>
+      <FirmwareVersion>Unknown</FirmwareVersion>
+      <OriginalDevice>Novecento+</OriginalDevice>
+      <OriginalAdapter> - </OriginalAdapter>
+      <OriginalSensor> - </OriginalSensor>
+      <UsedAccessory> - </UsedAccessory>
+      <ExecutedProcessings />
+      <LowPassFilter>Unknown</LowPassFilter>
+      <HighPassFilter>Unknown</HighPassFilter>
+      <Channels>Control Signal 8</Channels>
+      <FileType>Unknown</FileType>
+      <StartDate>2026-06-10 09:55:12</StartDate>
+      <EndDate>2026-06-10 09:55:50</EndDate>
+    </StringsDescriptions>
+    <EndY>700</EndY>
+    <StartY>350</StartY>
+    <RangeMin>-0.00025</RangeMin>
+    <RangeMax>0.00025</RangeMax>
+    <UseAsTrigger>false</UseAsTrigger>
+    <Channels>
+      <ChannelRapresentation>
+        <IsColorSelected>true</IsColorSelected>
+        <Color>58268</Color>
+        <IsChannelVisible>true</IsChannelVisible>
+        <Selected4Differential>false</Selected4Differential>
+        <PixelOffset>0</PixelOffset>
+        <Index>0</Index>
+        <Label>1</Label>
+        <LabelMargin>
+          <Left>0</Left>
+          <Top>0</Top>
+          <Right>0</Right>
+          <Bottom>0</Bottom>
+        </LabelMargin>
+        <ChannelHeight>15</ChannelHeight>
+      </ChannelRapresentation>
+    </Channels>
+    <BackgroundColor>173</BackgroundColor>
+    <NumberOfChannels>1</NumberOfChannels>
+    <Height>350</Height>
+    <AcquisitionChannel>7</AcquisitionChannel>
+    <Description>
+      <Name>Control Signal</Name>
+      <Map>
+        <ArrayOfInt>
+          <int>0</int>
+        </ArrayOfInt>
+      </Map>
+      <NRow>1</NRow>
+      <NColumn>1</NColumn>
+      <Height>50</Height>
+      <Width>50</Width>
+      <IED>1</IED>
+    </Description>
+    <FirstChannelNumber>0</FirstChannelNumber>
+    <RegroupFactor>800</RegroupFactor>
+  </TrackInfo>
+</ArrayOfTrackInfo>
